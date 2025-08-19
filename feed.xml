@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Pro Wrestling Resource</title>
+    <link href="https://sitetestwrestlingarchive.pages.dev/feed.xml" rel="self" />
+    <link href="https://sitetestwrestlingarchive.pages.dev" />
+    <updated>2025-08-18T21:53:05-04:00</updated>
+    <author>
+        <name>Mike B</name>
+    </author>
+    <id>https://sitetestwrestlingarchive.pages.dev</id>
+
+    <entry>
+        <title>Hmmmmmm</title>
+        <author>
+            <name>Mike B</name>
+        </author>
+        <link href="https://sitetestwrestlingarchive.pages.dev/hmmmmmm/index.html"/>
+        <id>https://sitetestwrestlingarchive.pages.dev/hmmmmmm/index.html</id>
+
+        <updated>2025-08-18T21:53:05-04:00</updated>
+            <summary>
+                <![CDATA[
+                    Homepage I guess?
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Homepage I guess?</p>
+            ]]>
+        </content>
+    </entry>
+</feed>
